@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'PANTON-REGULAR';
+    src: url('../fonts/PANTON-REGULAR.eot');
+    src: local('?'), url('../fonts/PANTON-REGULAR.ttf') format('truetype'), url('../fonts/PANTON-REGULAR.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Namaste1';
+    src: url('../fonts/AGRI4.eot');
+    src: local('?'), url('../fonts/AGRI4.ttf') format('truetype'), url('../fonts/AGRI4.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Conv_AGRI4;
+    src: url(../fonts/AGRI4.ttf);
+    font-size: xx-large
+}
+
+@font-face {
+    font-family: Conv_AGRI4;
+    src: url(../fonts/AGRI4.eot);
+    font-size: xx-large
+}
+
+@font-face {
+    font-family: Conv_AGRI3;
+    src: url(../fonts/AGRI3.ttf);
+    font-size: xx-large
+}
+
+@font-face {
+    font-family: Conv_AGRI3;
+    src: url(../fonts/AGRI3.eot);
+    font-size: xx-large
+}
+
+@font-face {
+    font-family: Mallanna;
+    src: url(../fonts/Mallanna.ttf);
+    font-size: xx-large
+}
+
+@font-face {
+    font-family: Mallanna;
+    src: url(../fonts/Mallanna.eot);
+    font-size: xx-large
+}
